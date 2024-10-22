@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Vokabel Teller",
   "resources": {
-    "hash": "sha256-9ICA3ZYzcznSTLQl+eEdLDCIXQCXNRCHS0ezRhzqNlk=",
+    "hash": "sha256-fZTJPy9lxGqIwZSiL89TjsJeq+m548oFX8gWipa3rVc=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.lbg7txl8po.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -18,7 +18,7 @@
     },
     "assembly": {
       "Blazor.IndexedDB.wasm": "sha256-RmHKiB/b2zJhLyYjkAHsATnTuY6SgthZ8lXBGsDRGfw=",
-      "Microsoft.AspNetCore.Components.wasm": "sha256-w1dYj+6gLTnMpwx5KoKUH3lBKUfTxv9/TM7xxSqx9xk=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-KxM9oAmfS9Q0p/EWwrMOipXFlGPeS4D197iex5ntZNo=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-fbgHBYaJYEhBGu0orrxwDst3o1K5AcWvy4r6tkk2bjU=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-XyPST+XDm2N6dDwFzGjcMGs0t9ZrFREy0DHQOSvJmWs=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-87sn2TYqgdZ95sXmavjKEzoEfMgHnYQ9LOvnMX+aZcI=",
@@ -51,7 +51,7 @@
       "System.Text.Json.wasm": "sha256-HCdx/dhwYkHJ2+JNVXOb063K2+SyfU0maQ0JlKREQQ4=",
       "System.Text.RegularExpressions.wasm": "sha256-8bujMNUMCuxn48zxE7AA6YYcbZJjv76LHEAtNjS6TuE=",
       "System.Threading.wasm": "sha256-/sB9Aucuch2CQz4pnfsZuu5jossTPJjDZbDvKQuEVek=",
-      "Vokabel Teller.wasm": "sha256-lC8Jl9SixrT1FEYr39YBxrLS+LiH+njRedd9xlYBcQY="
+      "Vokabel Teller.wasm": "sha256-ypGjJG/XiQp3GcZweHtGnLKqds+LKliqlaGXdM+5Uh4="
     }
   },
   "cacheBootResources": true,

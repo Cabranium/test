@@ -69,7 +69,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-GQvDWnMzUICCW7TZmyQMSJOuOIjdoElOkgiXjypFiXQ=",
+      "hash": "sha256-\/\/1d5iPtoVEeEip+zvObdh3yvdlNBzbTCmn2Q0LcEO4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -77,7 +77,7 @@
       "url": "_framework\/Blazor.IndexedDB.wasm"
     },
     {
-      "hash": "sha256-w1dYj+6gLTnMpwx5KoKUH3lBKUfTxv9\/TM7xxSqx9xk=",
+      "hash": "sha256-KxM9oAmfS9Q0p\/EWwrMOipXFlGPeS4D197iex5ntZNo=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -209,7 +209,7 @@
       "url": "_framework\/System.Threading.wasm"
     },
     {
-      "hash": "sha256-lC8Jl9SixrT1FEYr39YBxrLS+LiH+njRedd9xlYBcQY=",
+      "hash": "sha256-ypGjJG\/XiQp3GcZweHtGnLKqds+LKliqlaGXdM+5Uh4=",
       "url": "_framework\/Vokabel Teller.wasm"
     },
     {
@@ -221,5 +221,5 @@
       "url": "_content\/Blazor.IndexedDB\/indexedDb.Blazor.js"
     }
   ],
-  "version": "0WE5tu3Q"
+  "version": "+qnLHMN3"
 };
